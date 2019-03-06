@@ -16,5 +16,5 @@ the REPL.
 # Installation
 This package is not registered, so you can install it with the command
 ```julia
-] clone https://github.com/jacobadenbaum/TableBrowse.jl
+] add https://github.com/jacobadenbaum/TableBrowse.jl
 ```
