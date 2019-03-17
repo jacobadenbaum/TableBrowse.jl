@@ -1,4 +1,4 @@
-name = "Browse"
+name = "TableBrowse"
 uuid = "6e67061e-404e-11e9-1a3e-5767bb74205e"
 authors = ["Jacob Adenbaum <jacobadenbaum@gmail.com>"]
 version = "0.1.0"
